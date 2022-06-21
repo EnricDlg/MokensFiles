@@ -1,0 +1,14 @@
+shaders
+compresion de textureas
+hacer chunks
+hacer crunch de textuas
+exportar a varias plataformas
+pipeline de tech art
+atlas
+scriptar maya
+scriptar blender
+vfx
+postprocessing
+visual appeal
+lighting
+multiplataforma

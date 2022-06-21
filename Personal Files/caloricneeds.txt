@@ -1,0 +1,29 @@
+https://www.medicalnewstoday.com/articles/319731#calculating-how-many-calories-are-burned-in-a-day
+
+MAMA:
+
+Basal Metabolic Rate: 655 + (4.3 x 130) + (4.7 x 61) – (4.7 x 61) = 1214
+
+lifestyle: MINIMALLY ACTIVE --> BMR x 1.375
+
+Caloric needs: 1700
+
+
+
+PAPA: 
+
+Basal Metabolic Rate: 655 + (4.3 x 190) + (4.7 x 63) – (4.7 x 65) = 1463
+
+lifestyle: SEDENTARY --> BMR x 1.2
+
+Caloric needs: 1700
+
+
+
+ENRIC: 
+
+Basal Metabolic Rate: 655 + (4.3 x 150) + (4.7 x 65) – (4.7 x 23) = 1497
+
+lifestyle: VERY ACTIVE --> BMR x 1.725 = 1497 x 1.725
+
+Caloric needs: 2582
